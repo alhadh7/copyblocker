@@ -1,0 +1,14 @@
+C:\Users\alhad\Documents\copyblocker\FileProtectionSystem\obj\Debug\net6.0-windows\FileProtectionSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alhad\Documents\copyblocker\FileProtectionSystem\obj\Debug\net6.0-windows\FileProtectionSystem.AssemblyInfoInputs.cache
+C:\Users\alhad\Documents\copyblocker\FileProtectionSystem\obj\Debug\net6.0-windows\FileProtectionSystem.AssemblyInfo.cs
+C:\Users\alhad\Documents\copyblocker\FileProtectionSystem\obj\Debug\net6.0-windows\FileProtectionSystem.csproj.CoreCompileInputs.cache
+C:\Users\alhad\Documents\copyblocker\FileProtectionSystem\bin\Debug\net6.0-windows\FileProtectionSystem.exe
+C:\Users\alhad\Documents\copyblocker\FileProtectionSystem\bin\Debug\net6.0-windows\FileProtectionSystem.deps.json
+C:\Users\alhad\Documents\copyblocker\FileProtectionSystem\bin\Debug\net6.0-windows\FileProtectionSystem.runtimeconfig.json
+C:\Users\alhad\Documents\copyblocker\FileProtectionSystem\bin\Debug\net6.0-windows\FileProtectionSystem.dll
+C:\Users\alhad\Documents\copyblocker\FileProtectionSystem\bin\Debug\net6.0-windows\FileProtectionSystem.pdb
+C:\Users\alhad\Documents\copyblocker\FileProtectionSystem\obj\Debug\net6.0-windows\FileProtectionSystem.dll
+C:\Users\alhad\Documents\copyblocker\FileProtectionSystem\obj\Debug\net6.0-windows\refint\FileProtectionSystem.dll
+C:\Users\alhad\Documents\copyblocker\FileProtectionSystem\obj\Debug\net6.0-windows\FileProtectionSystem.pdb
+C:\Users\alhad\Documents\copyblocker\FileProtectionSystem\obj\Debug\net6.0-windows\FileProtectionSystem.genruntimeconfig.cache
+C:\Users\alhad\Documents\copyblocker\FileProtectionSystem\obj\Debug\net6.0-windows\ref\FileProtectionSystem.dll
